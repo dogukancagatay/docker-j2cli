@@ -1,0 +1,5 @@
+version: "3"
+services:
+  j2-cli:
+    build: ./
+    image: dcagatay/j2cli:latest
